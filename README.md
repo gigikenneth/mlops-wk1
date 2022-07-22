@@ -1,1 +1,2 @@
-# mlops-wk1
+# Wk1: co:rise - MLOps: From Models to Production
+
